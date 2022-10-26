@@ -10,3 +10,4 @@ nav:
 theme:
     name: null
     custom_dir: 'cinder'
+    colorscheme: dracula
