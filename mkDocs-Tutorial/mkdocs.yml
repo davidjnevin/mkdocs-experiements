@@ -1,13 +1,40 @@
 site_name: Understanding MkDocs
 site_url: https://davidjnevin.com/
 site_author: David J Nevin
-site_description: "A practice documentation site generated with MkDocs"
+site_description: "A practice documentation site generated with MkDocs."
+repo_name: DavidJNevin
 repo_url: "https://github.com/davidjnevin/mkdocs-experiements"
 #copyright: "Cinder is licensed under the <a href='https://github.com/chrissimpkins/cinder/blob/master/LICENSE.md'>MIT license</a>"
 nav:
   - Home: index.md
   - About: about.md
+  - Page1: page1.md
+  - Page2: page2.md
+  - Page3: page3.md
+  - Page4: page4.md
+  - Page5: page5.md
+  - Page6: page6.md
+
 theme:
-    name: null
-    custom_dir: 'cinder'
-    colorscheme: dracula
+  name: material
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
