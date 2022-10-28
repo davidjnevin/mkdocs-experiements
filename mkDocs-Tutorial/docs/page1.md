@@ -1,6 +1,8 @@
 # Ipsumque qualis cingens primum stipitis pondere quantum
 
-## Virgo sic
+## Plant UML Diagram
+
+![file](diagrams/out/test.svg#darkable)
 
 Lorem markdownum avus, veluti, huic ille est pharetratae turbantur incumbere
 infans partes tellus tegi stipe. Est spiritus ruunt effugies omnipotens mihi
@@ -10,7 +12,11 @@ innumeris, nomine gravi, in corpora **coniuge ora relabens** galeaque egens.
 Dextera et *quo* monstri lapsas et sentit superi tergore vestigia Gyaroque
 Athis.
 
+![userstory.svg](diagrams/out/userstory.svg#darkable)
+
 ## Esse bis sacra procul dicta aequoris
+
+![object_relations.svg](diagrams/out/object_relations.svg#darkable)
 
 Tenuere o praebet plaustri, fidem quid illa pactique, nam. Tum pondus linguas
 foedera nivibus signumque **inminet volucrum** saepe dignus forsitan? Positaeque
